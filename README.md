@@ -1,4 +1,4 @@
-# Gap-statistics
+# Gap-statistic
 
 A simple class which create a "Gap" instance. The final goal is to predict, through Kmeans, the best number of clusters for a given dataset.
 
